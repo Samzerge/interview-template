@@ -21,10 +21,18 @@ Rechazados:
 * Cuando la función isPalindrome regrese true: Imprime una cadena de texto que sea 'false-(value)' donde (value) es el nombre de un videojuego
 * Cuando la función isPalindrome regrese false: Imprime una cadena de texto que sea '(value)-true' donde (value) es el nombre de otro videojuego
 
-La cadena de texto debe imprimirse dentro del elemento <span id="target1">
+La cadena de texto debe imprimirse dentro del elemento
+
+```
+<span id="target1">
+```
 
 ### Ejercicio #3 ###
-Alinea los elementos dentro de <div class="main-container"> de manera horizontal y haciendo que ocupen todo el ancho de la pantalla
+Alinea los elementos dentro de
+```
+<div class="main-container">
+```
+de manera horizontal y haciendo que ocupen todo el ancho de la pantalla
 
 
 ### Ejercicio #4 ###
