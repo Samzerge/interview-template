@@ -1,29 +1,32 @@
-# README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+### Ejercicio #1 ###
 
-### What is this repository for? ###
+Crear un programa en Javascript que verifique si una cadena de texto es palíndromo.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+Ejemplos de palíndromo:
+* reconocer
+* sometemos
 
-### How do I get set up? ###
+Aceptados:
+* ojo
+* 123321
+* Anna
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+Rechazados:
+* ana lava lana
+* A ti no, bonita.
 
-### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
+### Ejercicio #2 ###
+* Cuando la función isPalindrome regrese true: Imprime una cadena de texto que sea 'false-(value)' donde (value) es el nombre de un videojuego
+* Cuando la función isPalindrome regrese false: Imprime una cadena de texto que sea '(value)-true' donde (value) es el nombre de otro videojuego
 
-### Who do I talk to? ###
+La cadena de texto debe imprimirse dentro del elemento <span id="target1">
 
-* Repo owner or admin
-* Other community or team contact
+### Ejercicio #3 ###
+Alinea los elementos dentro de <div class="main-container"> de manera horizontal y haciendo que ocupen todo el ancho de la pantalla
+
+
+### Ejercicio #4 ###
+* Imprime en un elemento que tenga el id 'target1' el texto que se encuentra a la izquierda del símbolo '-' en una cadena de texto con formato 'false-(value)' o '(value)-true'
+* Imprime en un elemento que tenga la clase 'target2' el texto que se encuentra a la derecha del símbolo '-'en una cadena de texto con formato 'false-(value)' o '(value)-true'
