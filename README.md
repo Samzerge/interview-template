@@ -36,5 +36,5 @@ de manera horizontal y haciendo que ocupen todo el ancho de la pantalla
 
 
 ### Ejercicio #4 ###
-* Imprime en un elemento que tenga el id 'target1' el texto que se encuentra a la izquierda del símbolo '-' en una cadena de texto con formato 'false-(value)' o '(value)-true'
-* Imprime en un elemento que tenga la clase 'target2' el texto que se encuentra a la derecha del símbolo '-'en una cadena de texto con formato 'false-(value)' o '(value)-true'
+* Imprime en un elemento que tenga la clase 'target2' el texto que se encuentra a la izquierda del símbolo '-' en el string que se usó en el elemento con id 'target1'
+* Imprime en un elemento que tenga el id 'target3' el texto que se encuentra a la derecha del símbolo '-'en el string que se usó en el elemento con id 'target1'
