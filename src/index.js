@@ -5,11 +5,28 @@ const isPalindrome = (text) => {
 
     //TODO: Implementacion de palindromo
 
+
     return true
 }
 
+let result = ''
+if(isPalindrome('')) {
+result = 'false-Mario'
 
-const result = isPalindrome('') ? true : false
+} else {
+result = 'MortalKombat-true'
+    
+}
+
+// const result = isPalindrome('') ? 'false-Mario' : 'MortalKombat-true'
+//false-Mario
+const example = 'false-Mario'
+const example2 = 'ZeldaKLuigi'
+const splitresult = example2.split('KLu')
+const elemnto = splitresult[0]
+console.log('example = ', example)
+console.log(splitresult)
+console.log('elemnto = ', elemnto)
 
 const getTarget2Text = (text) => {
     return text
